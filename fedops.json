@@ -1,0 +1,11 @@
+{
+    "appName": "kickstart-zero-to-prod-olga",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "kickstart-zero-to-prod-olga"
+    ]
+  }

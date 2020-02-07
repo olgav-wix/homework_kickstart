@@ -1,0 +1,14 @@
+{
+  "specs.kickstart.OvirchenTest": {
+    "owner": "olgav@wix.com",
+    "onlyForLoggedInUsers": false,
+    "scopes": [
+      "kickstart"
+    ],
+    "controlGroup": "false",
+    "variants": [
+      "true"
+    ]
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "specs.kickstart.Ovirchen": {
+    "owner": "olgav@wix.com",
+    "onlyForLoggedInUsers": false,
+    "scopes": [
+      "kickstart"
+    ],
+    "controlGroup": "false",
+    "variants": [
+      "true"
+    ]
+  }
+}
